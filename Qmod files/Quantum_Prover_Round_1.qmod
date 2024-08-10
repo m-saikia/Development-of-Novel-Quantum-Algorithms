@@ -1,0 +1,6 @@
+qfunc main(output x: qnum, output z: qnum) {
+  allocate(3, x);
+  apply_to_all(H,x);
+  z = x ** 2;
+}
+

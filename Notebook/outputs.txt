@@ -1,0 +1,154 @@
+Iter 1 (Round 3): N = 29| Quantum Prover counts = ['0', 17],['1', 82], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 2 (Round 3): N = 19| Quantum Prover counts = ['1', 93],['0', 16], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 3 (Round 3): N = 25| Quantum Prover counts = ['1', 97],['0', 11], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status REJECT.
+Iter 4 (Verifier chooses to terminate at round 1): N = 173| Quantum prover x value = 01011000, y value = 10000100| status ACCEPT.
+Iter 5 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 11010000, y value = 01111101| status ACCEPT.
+Iter 6 (Round 3): N = 17| Quantum Prover counts = ['1', 198],['0', 36], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 7 (Round 3): N = 11| Quantum Prover counts = ['0', 72],['1', 10], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 8 (Round 3): N = 11| Quantum Prover counts = ['1', 93],['0', 17], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 9 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 0100, y value = 0011| status ACCEPT.
+Iter 10 (Verifier chooses to terminate at round 1): N = 19| Quantum prover x value = 00110, y value = 10001| status ACCEPT.
+Iter 11 (Round 3): N = 23| Quantum Prover counts = ['0', 172],['1', 34], bit = 1| Verifier |psi> = [1 0], more likely = 0| status REJECT.
+Iter 12 (Verifier chooses to terminate at round 1): N = 173| Quantum prover x value = 01010010, y value = 10010110| status ACCEPT.
+Iter 13 (Verifier chooses to terminate at round 1): N = 19| Quantum prover x value = 00011, y value = 01001| status ACCEPT.
+Iter 14 (Verifier chooses to terminate at round 1): N = 121| Quantum prover x value = 0100010, y value = 1000011| status ACCEPT.
+Iter 15 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 00101, y value = 00010| status ACCEPT.
+Iter 16 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 0111, y value = 1010| status ACCEPT.
+Iter 17 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 01010, y value = 01000| status ACCEPT.
+Iter 18 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 11001, y value = 10000| status ACCEPT.
+Iter 19 (Round 3): N = 25| Quantum Prover counts = ['0', 12],['1', 87], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 20 (Verifier chooses to terminate at round 1): N = 17| Quantum prover x value = 00110, y value = 00010| status ACCEPT.
+Iter 21 (Round 3): N = 29| Quantum Prover counts = ['1', 171],['0', 33], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 22 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 10000011, y value = 00110010| status ACCEPT.
+Iter 23 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 1001, y value = 0011| status ACCEPT.
+Iter 24 (Round 3): N = 17| Quantum Prover counts = ['0', 199],['1', 27], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 25 (Round 3): N = 173| Quantum Prover counts = ['1', 167],['0', 22], bit = 0| Verifier |psi> = [0 1], more likely = 1| status REJECT.
+Iter 26 (Verifier chooses to terminate at round 1): N = 5| Quantum prover x value = 011, y value = 100| status ACCEPT.
+Iter 27 (Round 3): N = 23| Quantum Prover counts = ['1', 174],['0', 27], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 28 (Round 3): N = 23| Quantum Prover counts = ['1', 173],['0', 27], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 29 (Round 3): N = 121| Quantum Prover counts = ['0', 81],['1', 17], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 30 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 00011, y value = 01001| status ACCEPT.
+Iter 31 (Verifier chooses to terminate at round 1): N = 7| Quantum prover x value = 010, y value = 100| status ACCEPT.
+Iter 32 (Round 3): N = 17| Quantum Prover counts = ['1', 15],['0', 88], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 33 (Round 3): N = 7| Quantum Prover counts = ['1', 27],['0', 186], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 34 (Round 3): N = 13| Quantum Prover counts = ['0', 165],['1', 28], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 35 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 11010101, y value = 00111101| status ACCEPT.
+Iter 36 (Verifier chooses to terminate at round 1): N = 5| Quantum prover x value = 001, y value = 001| status ACCEPT.
+Iter 37 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 0010, y value = 0100| status ACCEPT.
+Iter 38 (Verifier chooses to terminate at round 1): N = 25| Quantum prover x value = 10011, y value = 01011| status ACCEPT.
+Iter 39 (Round 3): N = 7| Quantum Prover counts = ['1', 15],['0', 86], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 40 (Round 3): N = 17| Quantum Prover counts = ['1', 49],['0', 182], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 41 (Round 3): N = 9| Quantum Prover counts = ['1', 92],['0', 18], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status REJECT.
+Iter 42 (Verifier chooses to terminate at round 1): N = 97| Quantum prover x value = 1011111, y value = 0000100| status ACCEPT.
+Iter 43 (Round 3): N = 17| Quantum Prover counts = ['1', 25],['0', 182], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 44 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 0001, y value = 0001| status ACCEPT.
+Iter 45 (Round 3): N = 19| Quantum Prover counts = ['0', 166],['1', 39], bit = 1| Verifier |psi> = [1 0], more likely = 0| status REJECT.
+Iter 46 (Round 3): N = 5| Quantum Prover counts = ['1', 86],['0', 14], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 47 (Round 3): N = 11| Quantum Prover counts = ['0', 12],['1', 77], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 48 (Round 3): N = 7| Quantum Prover counts = ['0', 31],['1', 171], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 49 (Verifier chooses to terminate at round 1): N = 7| Quantum prover x value = 110, y value = 001| status ACCEPT.
+Iter 50 (Round 3): N = 29| Quantum Prover counts = ['0', 164],['1', 32], bit = 1| Verifier |psi> = [1 0], more likely = 0| status REJECT.
+Iter 51 (Round 3): N = 121| Quantum Prover counts = ['0', 24],['1', 178], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 52 (Round 3): N = 173| Quantum Prover counts = ['0', 146],['1', 33], bit = 1| Verifier |psi> = [1 0], more likely = 0| status REJECT.
+Iter 53 (Round 3): N = 13| Quantum Prover counts = ['1', 11],['0', 75], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 54 (Round 3): N = 29| Quantum Prover counts = ['0', 169],['1', 17], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 55 (Round 3): N = 17| Quantum Prover counts = ['0', 82],['1', 11], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 56 (Round 3): N = 173| Quantum Prover counts = ['0', 30],['1', 148], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 57 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 10010001, y value = 00111010| status ACCEPT.
+Iter 58 (Round 3): N = 23| Quantum Prover counts = ['1', 89],['0', 13], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 59 (Verifier chooses to terminate at round 1): N = 41| Quantum prover x value = 000110, y value = 100100| status ACCEPT.
+Iter 60 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 0110, y value = 1010| status ACCEPT.
+Iter 61 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 10101, y value = 00100| status ACCEPT.
+Iter 62 (Round 3): N = 19| Quantum Prover counts = ['0', 127],['1', 28], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 63 (Round 3): N = 41| Quantum Prover counts = ['1', 88],['0', 17], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 64 (Verifier chooses to terminate at round 1): N = 7| Quantum prover x value = 100, y value = 010| status ACCEPT.
+Iter 65 (Round 3): N = 25| Quantum Prover counts = ['1', 14],['0', 80], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status REJECT.
+Iter 66 (Round 3): N = 9| Quantum Prover counts = ['1', 86],['0', 14], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 67 (Round 3): N = 53| Quantum Prover counts = ['1', 75],['0', 21], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 68 (Round 3): N = 53| Quantum Prover counts = ['1', 158],['0', 43], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 69 (Round 3): N = 173| Quantum Prover counts = ['0', 87],['1', 17], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 70 (Round 3): N = 7| Quantum Prover counts = ['0', 23],['1', 171], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 71 (Round 3): N = 19| Quantum Prover counts = ['0', 196],['1', 23], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 72 (Verifier chooses to terminate at round 1): N = 97| Quantum prover x value = 0011000, y value = 1011011| status ACCEPT.
+Iter 73 (Verifier chooses to terminate at round 1): N = 5| Quantum prover x value = 010, y value = 100| status ACCEPT.
+Iter 74 (Verifier chooses to terminate at round 1): N = 7| Quantum prover x value = 110, y value = 001| status ACCEPT.
+Iter 75 (Verifier chooses to terminate at round 1): N = 41| Quantum prover x value = 001101, y value = 000101| status ACCEPT.
+Iter 76 (Round 3): N = 53| Quantum Prover counts = ['0', 28],['1', 178], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 77 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 01100101, y value = 01001111| status ACCEPT.
+Iter 78 (Round 3): N = 23| Quantum Prover counts = ['0', 35],['1', 182], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 79 (Round 3): N = 5| Quantum Prover counts = ['0', 22],['1', 173], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 80 (Round 3): N = 23| Quantum Prover counts = ['0', 16],['1', 95], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 81 (Verifier chooses to terminate at round 1): N = 173| Quantum prover x value = 01100110, y value = 00011000| status ACCEPT.
+Iter 82 (Round 3): N = 53| Quantum Prover counts = ['1', 29],['0', 180], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 83 (Verifier chooses to terminate at round 1): N = 97| Quantum prover x value = 0111101, y value = 0100011| status ACCEPT.
+Iter 84 (Verifier chooses to terminate at round 1): N = 11| Quantum prover x value = 1001, y value = 0100| status ACCEPT.
+Iter 85 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 10100110, y value = 01010010| status ACCEPT.
+Iter 86 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 10101, y value = 00110| status ACCEPT.
+Iter 87 (Verifier chooses to terminate at round 1): N = 25| Quantum prover x value = 00100, y value = 10000| status ACCEPT.
+Iter 88 (Round 3): N = 5| Quantum Prover counts = ['0', 34],['1', 154], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 89 (Verifier chooses to terminate at round 1): N = 17| Quantum prover x value = 01101, y value = 10000| status ACCEPT.
+Iter 90 (Round 3): N = 25| Quantum Prover counts = ['0', 38],['1', 184], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 91 (Round 3): N = 97| Quantum Prover counts = ['1', 18],['0', 83], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 92 (Round 3): N = 13| Quantum Prover counts = ['0', 169],['1', 41], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 93 (Round 3): N = 9| Quantum Prover counts = ['1', 83],['0', 23], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 94 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 00110011, y value = 10111111| status ACCEPT.
+Iter 95 (Round 3): N = 97| Quantum Prover counts = ['0', 11],['1', 79], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 96 (Verifier chooses to terminate at round 1): N = 53| Quantum prover x value = 001101, y value = 001010| status ACCEPT.
+Iter 97 (Round 3): N = 241| Quantum Prover counts = ['1', 16],['0', 89], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 98 (Round 3): N = 241| Quantum Prover counts = ['0', 16],['1', 94], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 99 (Verifier chooses to terminate at round 1): N = 7| Quantum prover x value = 010, y value = 100| status ACCEPT.
+Iter 100 (Round 3): N = 9| Quantum Prover counts = ['0', 79],['1', 7], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 101 (Round 3): N = 13| Quantum Prover counts = ['0', 25],['1', 184], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 102 (Round 3): N = 7| Quantum Prover counts = ['1', 13],['0', 95], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 103 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 01110, y value = 10110| status ACCEPT.
+Iter 104 (Round 3): N = 7| Quantum Prover counts = ['0', 184],['1', 30], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 105 (Verifier chooses to terminate at round 1): N = 13| Quantum prover x value = 1011, y value = 0100| status ACCEPT.
+Iter 106 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 00101110, y value = 10111100| status ACCEPT.
+Iter 107 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 01000, y value = 10010| status ACCEPT.
+Iter 108 (Verifier chooses to terminate at round 1): N = 17| Quantum prover x value = 00111, y value = 01111| status ACCEPT.
+Iter 109 (Round 3): N = 23| Quantum Prover counts = ['0', 34],['1', 179], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 110 (Round 3): N = 23| Quantum Prover counts = ['0', 30],['1', 169], bit = 0| Verifier |psi> = [0 1], more likely = 1| status REJECT.
+Iter 111 (Round 3): N = 25| Quantum Prover counts = ['0', 92],['1', 18], bit = 0| Verifier |psi> = [0.70710678 0.70710678], more likely = 0| status ACCEPT.
+Iter 112 (Verifier chooses to terminate at round 1): N = 9| Quantum prover x value = 1000, y value = 0001| status ACCEPT.
+Iter 113 (Verifier chooses to terminate at round 1): N = 241| Quantum prover x value = 01011110, y value = 10100000| status ACCEPT.
+Iter 114 (Round 3): N = 173| Quantum Prover counts = ['0', 72],['1', 16], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 115 (Round 3): N = 25| Quantum Prover counts = ['0', 15],['1', 78], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 116 (Round 3): N = 25| Quantum Prover counts = ['1', 171],['0', 21], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 117 (Round 3): N = 241| Quantum Prover counts = ['1', 171],['0', 25], bit = 0| Verifier |psi> = [0 1], more likely = 1| status REJECT.
+Iter 118 (Verifier chooses to terminate at round 1): N = 11| Quantum prover x value = 0010, y value = 0100| status ACCEPT.
+Iter 119 (Verifier chooses to terminate at round 1): N = 121| Quantum prover x value = 0111001, y value = 1100111| status ACCEPT.
+Iter 120 (Verifier chooses to terminate at round 1): N = 5| Quantum prover x value = 100, y value = 001| status ACCEPT.
+Iter 121 (Verifier chooses to terminate at round 1): N = 11| Quantum prover x value = 1000, y value = 1001| status ACCEPT.
+Iter 122 (Round 3): N = 241| Quantum Prover counts = ['0', 17],['1', 90], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+Iter 123 (Round 3): N = 97| Quantum Prover counts = ['1', 22],['0', 149], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 124 (Verifier chooses to terminate at round 1): N = 97| Quantum prover x value = 0001011, y value = 0011000| status ACCEPT.
+Iter 125 (Round 3): N = 23| Quantum Prover counts = ['1', 179],['0', 28], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 126 (Round 3): N = 29| Quantum Prover counts = ['0', 177],['1', 37], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 127 (Round 3): N = 173| Quantum Prover counts = ['0', 92],['1', 11], bit = 0| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 0| status ACCEPT.
+Iter 128 (Round 3): N = 29| Quantum Prover counts = ['0', 19],['1', 179], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 129 (Round 3): N = 5| Quantum Prover counts = ['0', 35],['1', 168], bit = 1| Verifier |psi> = [0 1], more likely = 1| status ACCEPT.
+Iter 130 (Verifier chooses to terminate at round 1): N = 5| Quantum prover x value = 010, y value = 100| status ACCEPT.
+Iter 131 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 00001, y value = 00001| status ACCEPT.
+Iter 132 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 10000, y value = 00011| status ACCEPT.
+Iter 133 (Round 3): N = 7| Quantum Prover counts = ['1', 29],['0', 185], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 134 (Verifier chooses to terminate at round 1): N = 25| Quantum prover x value = 10110, y value = 01001| status ACCEPT.
+Iter 135 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 01010, y value = 01000| status ACCEPT.
+Iter 136 (Round 3): N = 13| Quantum Prover counts = ['1', 84],['0', 15], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 137 (Verifier chooses to terminate at round 1): N = 53| Quantum prover x value = 001010, y value = 101111| status ACCEPT.
+Iter 138 (Round 3): N = 13| Quantum Prover counts = ['1', 72],['0', 10], bit = 1| Verifier |psi> = [ 0.70710678 -0.70710678], more likely = 1| status ACCEPT.
+Iter 139 (Round 3): N = 25| Quantum Prover counts = ['1', 31],['0', 190], bit = 0| Verifier |psi> = [1 0], more likely = 0| status ACCEPT.
+Iter 140 (Verifier chooses to terminate at round 1): N = 11| Quantum prover x value = 1010, y value = 0001| status ACCEPT.
+Iter 141 (Verifier chooses to terminate at round 1): N = 97| Quantum prover x value = 0100101, y value = 0001011| status ACCEPT.
+Iter 142 (Verifier chooses to terminate at round 1): N = 9| Quantum prover x value = 0010, y value = 0100| status ACCEPT.
+Iter 143 (Verifier chooses to terminate at round 1): N = 173| Quantum prover x value = 00001110, y value = 00010111| status ACCEPT.
+Iter 144 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 10010, y value = 00101| status ACCEPT.
+Iter 145 (Verifier chooses to terminate at round 1): N = 29| Quantum prover x value = 10111, y value = 00111| status ACCEPT.
+Iter 146 (Verifier chooses to terminate at round 1): N = 23| Quantum prover x value = 00100, y value = 10000| status ACCEPT.
+Iter 147 (Verifier chooses to terminate at round 1): N = 19| Quantum prover x value = 01100, y value = 01011| status ACCEPT.
+Iter 148 (Verifier chooses to terminate at round 1): N = 9| Quantum prover x value = 0010, y value = 0100| status ACCEPT.
+Iter 149 (Round 3): N = 241| Quantum Prover counts = ['1', 158],['0', 22], bit = 0| Verifier |psi> = [0 1], more likely = 1| status REJECT.
+Iter 150 (Round 3): N = 29| Quantum Prover counts = ['0', 18],['1', 80], bit = 1| Verifier |psi> = [0.70710678 0.70710678], more likely = 1| status ACCEPT.
+
+No of round 1 termination: 71, no of acceptance in round 1: 71, acceptance rate: 100.0%.
+No of round 2 & 3 execution: 79, no of acceptance in round 3: 68, acceptance rate: 86.07594936708861%.
+Yay! The prover demonstrated quantum advantage.

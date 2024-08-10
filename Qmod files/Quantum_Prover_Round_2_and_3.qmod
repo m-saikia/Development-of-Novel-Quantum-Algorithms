@@ -1,0 +1,21 @@
+qfunc prepare_round2_state(b: qnum, x: qbit[]) {
+  CX(x[0], b);
+  CX(x[2], b);
+}
+
+qfunc round2_simulate_measure_hadamard_basis(x: qnum) {
+  apply_to_all(H,x);
+}
+
+qfunc round3_simulate_measure_rotation_basis(b: qbit) {
+  RY(-0.7854,b);
+}
+
+qfunc main(output b: qbit, output x: qnum) {
+  allocate(1,b);
+  prepare_state([0, 0, 0, 0.5, 0.5, 0, 0, 0], 0.001, x);
+  prepare_round2_state(b, x);
+  round2_simulate_measure_hadamard_basis(x);
+  round3_simulate_measure_rotation_basis(b);
+}
+
